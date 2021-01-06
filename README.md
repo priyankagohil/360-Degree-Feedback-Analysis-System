@@ -22,3 +22,5 @@ Android Studio, Java, Python, XML, DialogFlow, Firebase (NoSql Database)
 1. Chatbot integration 
 2. Feedback Analysis using Sentiment Analysis
 3. Employee performance report generation
+
+<img src="chatbot.jpg" width="300" /> <img style="margin-left:100px;" src="report.jpg" width="300" /> 
